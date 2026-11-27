@@ -239,14 +239,6 @@ Contributions and improvements are welcome.
 
 Never include API keys, private messages, or sensitive information in commits or issues.
 
-## 📜 License
-
-The LinkSleuth application code is intended to be released under the **MIT License**, provided in the root `LICENSE` file.
-
-This license applies to the project code covered by that file. Gemma 4, its model weights, and third-party dependencies remain subject to their respective licenses and terms.
-
-See the [`LICENSE`](./LICENSE) file for details.
-
 ## 🏆 Hackathon
 
 Built for the **MLH Hacktoberfest Open Source AI Challenge**.
